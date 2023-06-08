@@ -61,8 +61,8 @@ public class N_Queens {
                 return false;
             }
         }
-// If all conditions are met then all is safe i.e. true, i.e. place the queen
-        return true;
+// If all conditions are met then all is safe i.e. true, ∴ place the queen
+        return true; 
     } 
 
     private static void display(boolean[][] board) {
